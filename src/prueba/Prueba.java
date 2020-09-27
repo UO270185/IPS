@@ -7,6 +7,7 @@ public class Prueba {
 		System.out.println("solucionado");
 		System.out.println("línea 3");
 		System.out.println("más cosas se han cambiado por aquí");
+		System.out.println("alguien más ha cambiado cosas");
 	}
 
 }
