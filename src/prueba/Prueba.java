@@ -6,6 +6,7 @@ public class Prueba {
 		System.out.println("línea 1");
 		System.out.println("solucionado");
 		System.out.println("línea 3");
+		System.out.println("más cosas se han cambiado por aquí");
 	}
 
 }
